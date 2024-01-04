@@ -5,24 +5,15 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1:
-upload csv file of contents
+ Step1: upload csv file of contents
 
-### Step2:
-now open the file using open(cars.csv)
+ Step2: now open the file using open(cars.csv)
 
+ Step3: to show give linear.linearRegression()
 
-### Step3:
-to show give linear.linearRegression()
+ Step4: the weight and volume columns contents have been read
 
-
-### Step4:
-the weight and volume columns contents have been read
-
-
-### Step5:
-
-the read content have been gien has a output 
+ Step5: the read content have been gien has a output 
 
 ## Program:
 ```
